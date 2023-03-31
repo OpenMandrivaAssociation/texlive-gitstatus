@@ -1,6 +1,6 @@
 Name:		texlive-gitstatus
 Version:	64662
-Release:	1
+Release:	2
 Summary:	Include Git information in the document as watermark or via variables
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gitstatus
