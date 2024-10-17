@@ -3,7 +3,7 @@ Version:	64662
 Release:	2
 Summary:	Include Git information in the document as watermark or via variables
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gitstatus
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gitstatus
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gitstatus.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gitstatus.doc.r%{version}.tar.xz
